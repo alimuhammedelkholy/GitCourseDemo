@@ -11,6 +11,6 @@ void PrintGreeting(string user)
 
 int main()
 {
-	PrintGreeting("Ali");
+	PrintGreeting("Ahmed");
 	return 0;
 }
