@@ -140,7 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GitCourseDemo.cpp" />
+<<<<<<< Updated upstream
     <ClCompile Include="messages.cpp" />
+=======
+    <ClCompile Include="Login.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Login.h" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
